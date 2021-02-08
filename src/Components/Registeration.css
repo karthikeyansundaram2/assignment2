@@ -1,0 +1,7 @@
+.registrationContainer{
+    display:flex;
+    flex-direction: column;
+    align-self: center;
+  justify-content: center;
+  width: 600px;
+}
