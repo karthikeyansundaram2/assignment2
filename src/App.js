@@ -14,7 +14,7 @@ class App extends React.Component {
     return (
       <div className="container">
         <h1 className='App-header title'>Learning Management System</h1>
-       
+       <h1>Welcome</h1>
         {/* <div className='App-body'>             */}
           <BrowserRouter>                 
               <Route path="/" exact component={() => <Login />} />      
